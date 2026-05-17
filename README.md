@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project implements and verifies a **Traffic Signal Controller** using **SystemVerilog UVM methodology**.
-
+Link : https://www.edaplayground.com/x/mDaS
 The RTL design models a basic traffic light controller with three states:
 
 - RED
